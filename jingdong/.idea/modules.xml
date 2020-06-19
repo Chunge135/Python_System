@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../csdn/.idea/csdn.iml" filepath="$PROJECT_DIR$/../csdn/.idea/csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" filepath="$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbdl/.idea/dbdl.iml" filepath="$PROJECT_DIR$/../dbdl/.idea/dbdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../douban/.idea/douban.iml" filepath="$PROJECT_DIR$/../douban/.idea/douban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first/.idea/first.iml" filepath="$PROJECT_DIR$/../first/.idea/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../github/.idea/github.iml" filepath="$PROJECT_DIR$/../github/.idea/github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ipriver/.idea/ipriver.iml" filepath="$PROJECT_DIR$/../ipriver/.idea/ipriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jddn/.idea/jddn.iml" filepath="$PROJECT_DIR$/../jddn/.idea/jddn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jingdong.iml" filepath="$PROJECT_DIR$/.idea/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdaad/.idea/pdaad.iml" filepath="$PROJECT_DIR$/../pdaad/.idea/pdaad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qqyouxiang/.idea/qqyouxiang.iml" filepath="$PROJECT_DIR$/../qqyouxiang/.idea/qqyouxiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qsauto/.idea/qsauto.iml" filepath="$PROJECT_DIR$/../qsauto/.idea/qsauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taobaolingshi/.idea/taobaolingshi.iml" filepath="$PROJECT_DIR$/../taobaolingshi/.idea/taobaolingshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tbls/.idea/tbls.iml" filepath="$PROJECT_DIR$/../tbls/.idea/tbls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../textAll/.idea/textAll.iml" filepath="$PROJECT_DIR$/../textAll/.idea/textAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ts/.idea/ts.iml" filepath="$PROJECT_DIR$/../ts/.idea/ts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youdaoyun notes/.idea/youdaoyun notes.iml" filepath="$PROJECT_DIR$/../youdaoyun notes/.idea/youdaoyun notes.iml" />
+    </modules>
+  </component>
+</project>

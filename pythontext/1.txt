@@ -1,0 +1,212 @@
+征服Spark第一季 详解Scala函数式编程
+https://edu.hellobi.com/course/120/overview
+456 人学习
+-----------------------------------
+IBM Cognos 中级视频教程 【模型和报表教程】
+https://edu.hellobi.com/course/6/overview
+1337 人学习
+-----------------------------------
+微软商业智能实战入门及提高视频教程
+https://edu.hellobi.com/course/8/overview
+274 人学习
+-----------------------------------
+微软 BI 实战入门系列【持续更新中】
+https://edu.hellobi.com/course/1/overview
+1834 人学习
+-----------------------------------
+BI基础知识漫谈【献给所以热爱商业智能的朋友】
+https://edu.hellobi.com/course/4/overview
+2534 人学习
+-----------------------------------
+咖啡姐 BIEE 11G 精品入门视频教程【新手必看】
+https://edu.hellobi.com/course/5/overview
+2739 人学习
+-----------------------------------
+Oracle BIEE 提高视频教程【时间序列函数，多表头制作，数据同步】
+https://edu.hellobi.com/course/7/overview
+1212 人学习
+-----------------------------------
+IBM Cognos 初级教程 【入门必学】
+https://edu.hellobi.com/course/3/overview
+2703 人学习
+-----------------------------------
+SSAS & Excel BI Tips（技巧、独家秘诀）【SSAS高端进阶必备免费课程】
+https://edu.hellobi.com/course/34/overview
+1023 人学习
+-----------------------------------
+Oracle 入门学习视频
+https://edu.hellobi.com/course/32/overview
+1123 人学习
+-----------------------------------
+QlikView开发宝典
+https://edu.hellobi.com/course/33/overview
+2416 人学习
+-----------------------------------
+占位
+https://edu.hellobi.com/course/310/overview
+1 人学习
+-----------------------------------
+永洪敏捷BI精品培训教程
+https://edu.hellobi.com/course/31/overview
+1311 人学习
+-----------------------------------
+Cognos 从入门到精通高级视频教程【免费更新】
+https://edu.hellobi.com/course/30/overview
+3207 人学习
+-----------------------------------
+OBIEE 深入浅出精品视频教程【免费持续更新】
+https://edu.hellobi.com/course/29/overview
+2013 人学习
+-----------------------------------
+Smartbi电子表格版入门到精通教程—新一代Java Web 报表工具
+https://edu.hellobi.com/course/28/overview
+1177 人学习
+-----------------------------------
+SAP BO Dashboard 初级培训视频教程
+https://edu.hellobi.com/course/27/overview
+1479 人学习
+-----------------------------------
+人人都应该会的Python！清华教授团队教你如何在中美名企业和高校中生存
+https://edu.hellobi.com/course/305/overview
+59 人学习
+-----------------------------------
+知识图谱完整项目实战（附源码）
+https://edu.hellobi.com/course/303/overview
+1 人学习
+-----------------------------------
+Hellobi Live |  PySpark搭建金融实时数据挖掘系统 
+https://edu.hellobi.com/course/311/overview
+745 人学习
+-----------------------------------
+业务思维构建及实践课程
+https://edu.hellobi.com/course/301/overview
+66 人学习
+-----------------------------------
+Hellobi Live | PySpark基础与信用评分卡案例
+https://edu.hellobi.com/course/309/overview
+664 人学习
+-----------------------------------
+商业分析全攻略——用数据分析方法解决商业问题
+https://edu.hellobi.com/course/308/overview
+772 人学习
+-----------------------------------
+8分钟讲懂一个算法 （连载中）
+https://edu.hellobi.com/course/307/overview
+2600 人学习
+-----------------------------------
+Excel高效套路，避免加班，职场人必会
+https://edu.hellobi.com/course/304/overview
+670 人学习
+-----------------------------------
+Hellobi Live | 转行入职数据科学（数据分析挖掘，机器学习方向）
+https://edu.hellobi.com/course/302/overview
+1625 人学习
+-----------------------------------
+Hellobi Live | 消费信贷场景的反欺诈
+https://edu.hellobi.com/course/300/overview
+1071 人学习
+-----------------------------------
+跟着大伟学SQL：从基础到进阶，从刷题到面试
+https://edu.hellobi.com/course/299/overview
+574 人学习
+-----------------------------------
+Hellobi Live | 数据科学在金融风控中的应用
+https://edu.hellobi.com/course/298/overview
+839 人学习
+-----------------------------------
+SQL实战系列特训班
+https://edu.hellobi.com/course/297/overview
+1140 人学习
+-----------------------------------
+爬取知乎神回复，两小时掌握完整的爬虫开发流程
+https://edu.hellobi.com/course/293/overview
+21 人学习
+-----------------------------------
+数据科学狂欢，四大直播：金融风控、反欺诈、房价、转行入职，双十一限免
+https://edu.hellobi.com/course/296/overview
+777 人学习
+-----------------------------------
+Hellobi Live | 爬取知乎书店的4000本书
+https://edu.hellobi.com/course/294/overview
+425 人学习
+-----------------------------------
+零基础掌握数据挖掘之经典线性回归模型
+https://edu.hellobi.com/course/295/overview
+292 人学习
+-----------------------------------
+用户画像解决方案
+https://edu.hellobi.com/course/291/overview
+318 人学习
+-----------------------------------
+Hellobi Live | 数字化营销与大数据职业发展方向
+https://edu.hellobi.com/course/290/overview
+1539 人学习
+-----------------------------------
+Hellobi Live | 自然语言处理案例：文本分类
+https://edu.hellobi.com/course/292/overview
+204 人学习
+-----------------------------------
+Python机器学习全流程项目实战精讲
+https://edu.hellobi.com/course/284/overview
+151 人学习
+-----------------------------------
+面试经验分享系列课程精华
+https://edu.hellobi.com/course/289/overview
+214 人学习
+-----------------------------------
+用户画像实践课程精华
+https://edu.hellobi.com/course/287/overview
+1671 人学习
+-----------------------------------
+Hellobi Live | 用户画像建模实践
+https://edu.hellobi.com/course/288/overview
+3746 人学习
+-----------------------------------
+小案例玩转Pyspark
+https://edu.hellobi.com/course/282/overview
+86 人学习
+-----------------------------------
+Hellobi Live | 从数据分析师到机器学习(深度学习)工程师的进阶之路
+https://edu.hellobi.com/course/286/overview
+1031 人学习
+-----------------------------------
+Hellobi Live | Python数据分析师养成记
+https://edu.hellobi.com/course/285/overview
+2254 人学习
+-----------------------------------
+Hive实战技能-必知必会（一）
+https://edu.hellobi.com/course/283/overview
+1156 人学习
+-----------------------------------
+Python数据科学-技术详解与商业实践（八大案例，配套书籍）
+https://edu.hellobi.com/course/280/overview
+724 人学习
+-----------------------------------
+Hellobi Live | Python快速上手matplotlib可视化库
+https://edu.hellobi.com/course/279/overview
+2434 人学习
+-----------------------------------
+小白学数据挖掘与机器学习
+https://edu.hellobi.com/course/281/overview
+7199 人学习
+-----------------------------------
+手把手教你用Python 实践深度学习
+https://edu.hellobi.com/course/278/overview
+314 人学习
+-----------------------------------
+如何搭建金融信贷风控中的机器学习模型
+https://edu.hellobi.com/course/277/overview
+484 人学习
+-----------------------------------
+数据分析师能力培养：业务与技术的完美结合
+https://edu.hellobi.com/course/276/overview
+543 人学习
+-----------------------------------
+MS SQL数据库入门及初级BI教程
+https://edu.hellobi.com/course/2/overview
+1799 人学习
+-----------------------------------
+年终数据分析总结报告突击训练
+https://edu.hellobi.com/course/306/overview
+273 人学习
+-----------------------------------

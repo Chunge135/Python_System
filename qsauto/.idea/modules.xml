@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Firstlist/.idea/Firstlist.iml" filepath="$PROJECT_DIR$/../Firstlist/.idea/Firstlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../csdn/.idea/csdn.iml" filepath="$PROJECT_DIR$/../csdn/.idea/csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" filepath="$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../douban/.idea/douban.iml" filepath="$PROJECT_DIR$/../douban/.idea/douban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first/.idea/first.iml" filepath="$PROJECT_DIR$/../first/.idea/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ipriver/.idea/ipriver.iml" filepath="$PROJECT_DIR$/../ipriver/.idea/ipriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/.idea/jingdong.iml" filepath="$PROJECT_DIR$/../jingdong/.idea/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qqyouxiang/.idea/qqyouxiang.iml" filepath="$PROJECT_DIR$/../qqyouxiang/.idea/qqyouxiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qsauto.iml" filepath="$PROJECT_DIR$/.idea/qsauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ts/.idea/ts.iml" filepath="$PROJECT_DIR$/../ts/.idea/ts.iml" />
+    </modules>
+  </component>
+</project>
